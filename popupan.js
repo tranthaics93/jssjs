@@ -1,5 +1,5 @@
 
-	var url_popup = 'https://bit.ly/2r37SFT';
+	var url_popup = 'https://nhaxinxo.com';
 
       //<![CDATA[
 	  // var url_ppp = 'https://nhaxinxo.com';
